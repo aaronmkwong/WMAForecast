@@ -1,4 +1,4 @@
-# Python-WMA-Retail-Sales-Forecast
+# WMA Forecast
 
 
 **Purpose**
